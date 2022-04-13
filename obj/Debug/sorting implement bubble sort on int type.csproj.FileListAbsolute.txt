@@ -1,0 +1,8 @@
+C:\Users\Onshore\source\repos\sorting implement bubble sort on int type\bin\Debug\sorting implement bubble sort on int type.exe.config
+C:\Users\Onshore\source\repos\sorting implement bubble sort on int type\bin\Debug\sorting implement bubble sort on int type.exe
+C:\Users\Onshore\source\repos\sorting implement bubble sort on int type\bin\Debug\sorting implement bubble sort on int type.pdb
+C:\Users\Onshore\source\repos\sorting implement bubble sort on int type\obj\Debug\sorting implement bubble sort on int type.csproj.AssemblyReference.cache
+C:\Users\Onshore\source\repos\sorting implement bubble sort on int type\obj\Debug\sorting implement bubble sort on int type.csproj.SuggestedBindingRedirects.cache
+C:\Users\Onshore\source\repos\sorting implement bubble sort on int type\obj\Debug\sorting implement bubble sort on int type.csproj.CoreCompileInputs.cache
+C:\Users\Onshore\source\repos\sorting implement bubble sort on int type\obj\Debug\sorting implement bubble sort on int type.exe
+C:\Users\Onshore\source\repos\sorting implement bubble sort on int type\obj\Debug\sorting implement bubble sort on int type.pdb
